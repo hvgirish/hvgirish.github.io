@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "IdeaPad"
+date:   2014-05-28 19:45:00
+categories: definitions
+---
+
+nginx as reverse proxy. how to basic-auth. pros-cons
+
+ability to dump runtime config
+ability to change runtime config
+
+logging
+
+blue-green deployments. post-deploy checks. healthcheck apis. autoscaling.
+
+using files and directories in apps. absolute, relative paths
