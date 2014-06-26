@@ -8,10 +8,15 @@ categories: definitions
 nginx as reverse proxy. how to basic-auth. pros-cons
 
 ability to dump runtime config
-ability to change runtime config
+ability to change runtime config without restarts - SIGHUP or SIGUSR?
 
-logging
+logging/journal alllllll the action. centrally. allow `replay` to reproduce issues
 
 blue-green deployments. post-deploy checks. healthcheck apis. autoscaling.
 
 using files and directories in apps. absolute, relative paths
+
+if using puppet/chef. cleanup? uninstall using recipes
+allow for constant refactoring as the infra evolves based on customer clarity
+
+backups. online, offline, security.
