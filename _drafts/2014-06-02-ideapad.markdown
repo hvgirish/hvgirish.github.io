@@ -20,3 +20,5 @@ if using puppet/chef. cleanup? uninstall using recipes
 allow for constant refactoring as the infra evolves based on customer clarity
 
 backups. online, offline, security.
+
+throwing away old infrastructure and re-creating new infra as a deployment strategy! seriously.
